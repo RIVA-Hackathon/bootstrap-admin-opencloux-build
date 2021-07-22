@@ -1,2 +1,3 @@
-# bootstrap-admin-opencloux-build
-OpencloudCX script for opencloudcx-app build
+# bootstrap-admin-provider-build
+
+Build script for default OpenCloudCX project
